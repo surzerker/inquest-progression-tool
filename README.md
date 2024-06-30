@@ -22,7 +22,7 @@ Before installing the `Inquest Progression Tool` add-on, ensure you have Tamperm
    - Navigate to the Tampermonkey dashboard in your browser.
    - Click on the "Utilities" tab on the dashboard.
    - Under "URL", paste the link below to the `Inquest Progression Tool` script and click on the “Import” button:
-         `https://github.com/surzerker/inquest-progression-tool/raw/main/Inquest%20Progression%20Tool.user.js`
+         `https://github.com/surzerker/inquest-progression-tool/raw/main/Inquest%20Progression%20Tool-0.4.user.js`
    - Tampermonkey will prompt you to review the script. After reviewing, click "Install" to add the script to your browser.
 
 ## Getting Started
