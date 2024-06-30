@@ -25,10 +25,6 @@ Before installing the `Inquest Progression Tool` add-on, ensure you have Tamperm
          `https://github.com/surzerker/inquest-progression-tool/raw/main/Inquest%20Progression%20Tool.user.js`
    - Tampermonkey will prompt you to review the script. After reviewing, click "Install" to add the script to your browser.
 
-## Security Guarantees
-
-Your security is paramount. If you have any concerns about loading a remote script, I encourage you to download the script and host your own copy. This ensures you're in complete control of the script running in your browser.
-
 ## Getting Started
 
 Once installed, the `Inquest Progression Tool` add-on will be available whenever you're navigating through the tournament page. The tool will automatically enhance the page by adding interactive features to manage and progress through the rounds.
