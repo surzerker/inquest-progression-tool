@@ -27,7 +27,7 @@ Before installing the `Inquest Progression Tool` add-on, ensure you have Tamperm
 
 ## Getting Started
 
-Once installed, the `Inquest Progression Tool` add-on will be available whenever you're navigating through the tournament page. The tool will automatically enhance the page by adding interactive features to manage and progress through the rounds.
+Once installed, the `Inquest Progression Tool` add-on will be available whenever you're navigating through the tournament page (Go to https://rwk1.racewarkingdoms.com/inquest.htm for S1 or https://rwk2.racewarkingdoms.com/inquest.htm for S2). The tool will automatically enhance the page by adding interactive features to manage and progress through the rounds.
 
 ## Support
 
